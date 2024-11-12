@@ -1,5 +1,5 @@
-# DV_assignment
-This repository shows my solution for the Exercise 1 of the assignment given by the Race Up Team.
+# Maze Solver
+This repository shows an implementation in Java of an algorithm to solve mazes in the form of strings of the same length.
 ## Task Description
 It is given a grid of characters representing a maze, where:
 * "S" is the starting point;
